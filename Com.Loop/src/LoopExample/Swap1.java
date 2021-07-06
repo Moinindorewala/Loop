@@ -21,6 +21,7 @@ public class Swap1 {
 		a=a-b;
 		
 		System.out.println("Before Swapping: " +a+"  "+b );
+		System.out.println("hi");
 		
 	}
 
